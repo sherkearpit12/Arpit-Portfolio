@@ -313,10 +313,10 @@ document.addEventListener('DOMContentLoaded', () => {
       //    Using Web3Forms — free, no backend needed, works on GitHub Pages.
       //    Setup: https://web3forms.com → get Access Key → replace below.
       //    The key is safe to expose in frontend (maps to your email only).
-      const ACCESS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
+      const ACCESS_KEY = 'de4b2648-f1e5-4a4c-ba24-36edf7cfa8be';
 
       try {
-        if (ACCESS_KEY === 'YOUR_WEB3FORMS_ACCESS_KEY') {
+        if (ACCESS_KEY === 'de4b2648-f1e5-4a4c-ba24-36edf7cfa8be') {
           // ── Mailto fallback until key is configured ────────────
           const body = `Name: ${rawName.trim()}\nEmail: ${rawEmail.trim()}\n\nMessage:\n${rawMsg.trim()}`;
           window.location.href =
