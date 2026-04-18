@@ -316,7 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const ACCESS_KEY = 'de4b2648-f1e5-4a4c-ba24-36edf7cfa8be';
 
       try {
-        if (ACCESS_KEY === 'de4b2648-f1e5-4a4c-ba24-36edf7cfa8be') {
+        if (ACCESS_KEY === 'YOUR_WEB3FORMS_ACCESS_KEY') {
           // ── Mailto fallback until key is configured ────────────
           const body = `Name: ${rawName.trim()}\nEmail: ${rawEmail.trim()}\n\nMessage:\n${rawMsg.trim()}`;
           window.location.href =
