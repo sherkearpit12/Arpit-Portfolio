@@ -1,0 +1,9 @@
+# Security Policy — Arpit Sherke Portfolio
+# https://securitytxt.org
+
+Contact: mailto:arpitsherke12@gmail.com
+Preferred-Languages: en
+Expires: 2026-12-31T23:59:59.000Z
+Policy: This is a static personal portfolio website hosted on GitHub Pages.
+        If you discover a security issue, please report it responsibly via email.
+Acknowledgments: Thank you for helping keep this site secure.
